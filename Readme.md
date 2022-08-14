@@ -37,3 +37,10 @@ The solar power interrupter will effectively logically invert the input from the
 - Is the battery safe from all failures?
 - Is the 5V USB supply safe from all failures?
 - All parts have part numbers!
+
+# Images
+
+Note, some small changes have been made since these images were captured.
+![Schematic](images/schematic.png)
+![PCB](images/pcb.png)
+![Simulation](images/simulation.png)
