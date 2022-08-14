@@ -391,6 +391,7 @@
           "+BATT",
           "/BATT_UNFUSED",
           "/RELAY",
+          "/RELAY_UNPROTECTED",
           "GND",
           "Net-(F1-Pad2)",
           "VBUS"
